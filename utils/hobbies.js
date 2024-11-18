@@ -1,3 +1,3 @@
-const hobbies = (...hobbies) => ({ hobbies: [...hobbies] });
+const hobbies = (...hobby) => ({ hobbies: [...hobby] });
 
 module.exports = hobbies;

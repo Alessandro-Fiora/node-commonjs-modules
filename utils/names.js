@@ -1,3 +1,3 @@
-const fullName = (name, surname) => ({ name, surname });
+const names = (name, surname) => ({ name, surname });
 
-module.exports = fullName;
+module.exports = names;
